@@ -7,5 +7,7 @@ title: French Fries
 
 Who even likes that greasy joke of a food? You can quite literally squeeze the oil out. Makes me feel like I'm one wrong move away from a heart attack. I'd much rather just boil the damn thing. 
 
+Or have it raw.
+
 ---
-**Test**: This is atest
+
