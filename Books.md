@@ -2,7 +2,7 @@
 layout: single
 author_profile: true
 permalink: /Books/
-title: My friends around the world
+title: Books I've Read
 tags: [books]
 modified: 4-10-2019
 comments: true
