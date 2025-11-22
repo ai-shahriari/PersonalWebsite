@@ -10,31 +10,31 @@ gallery:
   - url: /assets/images/colors.jpg
     image_path: /assets/images/colors.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: ""
   - url: /assets/images/comatose.jpg
     image_path: /assets/images/comatose.jpg
     alt: "placeholder image 2"
-    title: "Image 2 title caption"
+    title: "Twins."
   - url: /assets/images/guts.jpg
     image_path: /assets/images/guts.jpg
     alt: "placeholder image 3"
-    title: "Image 3 title caption"  
+    title: "Guts."  
   - url: /assets/images/world.jpg
     image_path: /assets/images/world.jpg
     alt: "placeholder image 4"
-    title: "Image 4 title caption"
+    title: "It's a Fit."
   - url: /assets/images/light.jpg
     image_path: /assets/images/light.jpg
     alt: "placeholder image 5"
-    title: "Image 5 title caption"    
+    title: "I Believe It's Gabriel."    
   - url: /assets/images/love.jpg
     image_path: /assets/images/love.jpg
     alt: "placeholder image 6"
-    title: "Image 6 title caption"    
+    title: "Thank God."    
   - url: /assets/images/mud.jpg
     image_path: /assets/images/mud.jpg
     alt: "placeholder image 7"
-    title: "Image 7 title caption"    
+    title: "The Mind."    
 ---
 
 

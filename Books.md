@@ -2,7 +2,7 @@
 layout: single
 author_profile: true
 permalink: /Books/
-title: Books I've Recently Read
+title: Some Books I've Read
 tags: [books]
 modified: 4-10-2019
 comments: true

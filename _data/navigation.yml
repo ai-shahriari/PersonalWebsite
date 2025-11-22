@@ -1,13 +1,13 @@
 # main links
 main:
-  - title: "CV"
-    url: /cv/
-  - title: "Courses"
-    url: /courses/
+  - title: "Poems"
+    url: /Poems/
+  - title: "Movies"
+    url: /Movies/
   - title: "Books"
     url: /Books/
-  - title: "Links"
-    url: /links/
+  - title: "Opinions"
+    url: /Opinions/
   - title: "Hobbies"
     url: /hobbies/  
   - title: "Gallery"
