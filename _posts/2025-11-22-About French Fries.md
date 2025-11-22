@@ -9,5 +9,7 @@ Who even likes that greasy joke of a food? You can quite literally squeeze the o
 
 Or have it raw.
 
+Anyways...
+here's a recipe: [recipe](https://natashaskitchen.com/easy-boiled-potatoes-recipe/)
 ---
 
